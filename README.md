@@ -18,7 +18,7 @@ Click [here](https://lively-welder-190307.appspot.com/) to see The dashboard in 
   - [node >= 8](https://nodejs.org/download/)
   - [create-react-app](https://github.com/facebookincubator/create-react-app)
     ```shell
-    npm install -g create-react-app
+    $npm install -g create-react-app
      ```
 #### Server side
   - This [Python Flask app](https://github.com/aminbouraiss/flask-dashboard) to refresh the data.
