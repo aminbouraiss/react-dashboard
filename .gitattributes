@@ -1,0 +1,7 @@
+src/*.html linguist-vendored
+src/*.css linguist-vendored
+public/*.css linguist-vendored
+public/*.css linguist-vendored
+*.html linguist-vendored
+*.css linguist-vendored
+
